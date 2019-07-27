@@ -30,22 +30,7 @@ public class ArrayListDemo {
 		Collections.sort(alist);
 		System.out.println(alist);
 		
-		//Linked List
-		List<Integer> linkedList = new LinkedList<Integer>();
-		linkedList.add(50);
-		//linkedList.add(3,66);
-		linkedList.add(8);
-		linkedList.add(19);
-		linkedList.add(45);
 		
-//		System.out.println(linkedList);
-		
-		Iterator<Integer> itr = alist.iterator();
-		
-		while(itr.hasNext())
-		{
-			System.out.println(itr.next());
-		}
 	}
 
 }
