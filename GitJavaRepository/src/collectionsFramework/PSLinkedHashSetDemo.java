@@ -3,7 +3,7 @@ package collectionsFramework;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class LinkedHashSetDemo {
+public class PSLinkedHashSetDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
